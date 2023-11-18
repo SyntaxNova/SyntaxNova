@@ -1,5 +1,5 @@
-Welcome to My GitHub Profile 👋
-Hello there! I'm [Your Name], a passionate IT engineering student who loves to explore and learn about new technologies every day. This GitHub repository serves as a showcase of my journey through the world of IT, featuring projects, code snippets, and various experiments.
+<h1> Welcome to My GitHub Profile 👋 </h1>
+<p>Hello there! I'm <b>SyntaxNova</b>, a passionate IT engineering student who loves to explore and learn about new technologies every day. This GitHub repository serves as a showcase of my journey through the world of Technology , featuring projects, code snippets, and various experiments.</p>
 
 🚀 About Me
 🎓 Studying IT Engineering
@@ -7,8 +7,8 @@ Hello there! I'm [Your Name], a passionate IT engineering student who loves to e
 🌐 Exploring the vast landscape of open source and Software Engineering 
 🛠️ Technologies & Tools
 I enjoy working with a variety of technologies, and some of my favorites include:
-Programming Languages: Python | java | c++ | Javascript
-Web development
+<p>Programming Languages: Python | java | c++ | Javascript</p>
+<p>Web development</p>
 
 🌱 Learning Goals
 I believe in continuous learning, and my current focus areas include:
