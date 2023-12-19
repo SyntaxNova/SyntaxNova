@@ -7,7 +7,7 @@
 🌐 Exploring the vast landscape of open source and Software Engineering 
 🛠️ Technologies & Tools
 I enjoy working with a variety of technologies, and some of my favorites include:
-<p>Programming Languages: Python | java | c++ | Javascript</p>
+<p>Programming Languages: Python | java | c++ | Javascript | CSS | HTML | php </p>
 <p>Web development</p>
 
 🌱 Learning Goals
