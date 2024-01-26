@@ -7,8 +7,8 @@
 🌐 Exploring the vast landscape of open source and Software Engineering 
 🛠️ Technologies & Tools
 I enjoy working with a variety of technologies, and some of my favorites include:
-<p>Programming Languages: Python | java | c++ | Javascript | CSS | HTML | php </p>
-<p>Web development</p>
+<p>Programming Languages & Skills : Python | java | c++ | Javascript | CSS | HTML | php | DSA | OOP </p>
+<p>Web development :Javascript | CSS | HTML | Bootstrap | php | DBMS | MySql | React </p>
 
 🌱 Learning Goals
 I believe in continuous learning, and my current focus areas include:
