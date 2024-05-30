@@ -90,6 +90,6 @@ Data Structures and Algorithm
 I'd like to express my gratitude to the open-source community for the inspiration and learning opportunities. Thank you for being a part of my journey!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atharva-pachpute3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharva-pachpute3/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atharva-pachpute-a35713287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharva-pachpute3/" height="30" width="40" /></a>
 </p>
 Thank you for stopping by! ✨
